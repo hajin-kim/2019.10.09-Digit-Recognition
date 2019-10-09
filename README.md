@@ -18,6 +18,6 @@ http://adventuresinmachinelearning.com/keras-tutorial-cnn-11-lines/<br>
     3. Predict the digit of user image
     (Image filter codes are NOT included)
 
-Created model file "DigitRecognitionCNN.h5" cannot be uploaded because of file size restriction.<br>
-Please open and run "DigitRecognitionModel.ipynb" to generate model file.
+Created model file "DigitRecognitionCNN.h5" cannot be uploaded because of thle file size restriction.<br>
+Please open and run "DigitRecognitionModel.ipynb" to generate the model file.
 
