@@ -1,6 +1,10 @@
 # 2019.10.09-Digit-Recognition
 Digit Recognition with Keras tutorial(MNIST, CNN) and Jupyter notebook
 
+### Reference
+https://pinkwink.kr/1121<br>
+http://adventuresinmachinelearning.com/keras-tutorial-cnn-11-lines/<br>
+
 ### DigitRecognitionModel.ipynb
 
     1. Get training datasets
