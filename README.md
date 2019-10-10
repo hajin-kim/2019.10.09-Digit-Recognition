@@ -1,19 +1,23 @@
 # 2019.10.09-Digit-Recognition
 Digit Recognition with Keras tutorial(MNIST, CNN) and Jupyter notebook
 
+### 2019.10.10 revised
+The codes are revised for TensorFlow 2.0
+
 ### Reference
 https://pinkwink.kr/1121<br>
 http://adventuresinmachinelearning.com/keras-tutorial-cnn-11-lines/<br>
+<strong>A considerable amount of codes are from above reference</strong>
 
-### DigitRecognitionModel.ipynb
+### DigitRecognitionModelTF2.ipynb
 
     1. Get training datasets
     2. Make CNN model and traing
-    3. Generate model file "DigitRecognitionCNN.h5"
+    3. Generate model file "DigitRecognitionCNNTF2.h5"
 
-### DigitRecognition.ipynb
+### DigitRecognitionTF2.ipynb
 
-    1. Get model file "DigitRecognitionCNN.h5"
+    1. Get model file "DigitRecognitionCNNTF2.h5"
     2. Get user image "target.png"
     3. Predict the digit of user image
     (Image filter codes are NOT included)
