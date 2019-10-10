@@ -7,7 +7,7 @@ The codes are revised for TensorFlow 2.0
 ### Reference
 https://pinkwink.kr/1121<br>
 http://adventuresinmachinelearning.com/keras-tutorial-cnn-11-lines/<br>
-<strong>A considerable amount of codes are from above reference</strong>
+<strong>A considerable amount of codes are from the above reference</strong>
 
 ### DigitRecognitionModelTF2.ipynb
 
